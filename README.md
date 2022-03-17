@@ -1,4 +1,4 @@
-# Desafios de SQL - Bewcrowd
+# Desafios de SQL - Beecrowd
 
 Alguns exercícios conceituais de SQL no site de desafios [Beecrowd](https://www.be{ecrowd.com.br/), conhecido anteriormente como URI.
 Estes desafios abordam alguns conceitos básicos de SQL, como:
